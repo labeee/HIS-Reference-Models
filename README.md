@@ -1,2 +1,17 @@
-# arquetipos-residencial
-Este é um repositório dos modelos de referência de habitações no Brasil, desenvolvidos na tese de Maria Andrea Triana (2016).
+# modelos-referencia-residencial
+Este é um repositório criado para disponibilizar modelos de referência típicos do setor residencial de Habitação de Interesse Social do Brasil. Os modelos de referência foram criados a partir da tese de Triana (2016). O modelo arquitetônico e de água quente foram modelados em BIM no software Revit (versão), e o modelo de energia foi modelado no sofware EnergyPlus (Versão 22.1).
+
+Este material foi criado no âmbito do projeto hab.labeee, e o relatório completo da criação e análise dos modelos de referência podem ser acessados no portal do projeto (http://hablabeee.ufsc.br/).
+
+# Project information:
+Título:	Inovação no desenvolvimento e construção de Habitações de Interesse Social Multifamiliares para promoção da eficiência energética e conforto ambiental
+Alias:	Hab.LabEEE
+Órgão financiador:	FINEP
+Executor:	UFSC
+Código FINEP:	1536/22
+Número do Convênio:	01.22.0580.00
+Prazo:	36 meses
+
+# Copyrights
+A utilização e reprodução deste material é permitida apenas para fins acadêmicos. Qualquer utilização deve conter a fonte, citando:
+GERALDI, M. S., VIEGA, C. Z. M., BAGIO, J., TRIANA, M. A., MELO, A. P., LAMBERTS, R. Relatório 
