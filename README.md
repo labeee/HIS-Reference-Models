@@ -14,4 +14,4 @@ Prazo:	36 meses
 
 ### Copyrights
 A utilização e reprodução deste material é permitida apenas para fins acadêmicos. Qualquer utilização deve conter a fonte, citando:
-GERALDI, M. S., VIEGA, C. Z. M., BAGIO, J., TRIANA, M. A., MELO, A. P., LAMBERTS, R. Relatório 
+VEIGA, C. Z. M., BAGIO, J., GERALDI, M. S., TRIANA, M. A., MELO, A. P., LAMBERTS, R. Relatório técnico: Criação dos Modelos de Referência de HIS. Projeto hab.labeee. 2023. Disponível em: https://hablabeee.ufsc.br/resultados
