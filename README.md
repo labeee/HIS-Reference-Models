@@ -3,15 +3,15 @@ Este é um repositório criado para disponibilizar modelos de referência típic
 
 Este material foi criado no âmbito do projeto hab.labeee, e o relatório completo da criação e análise dos modelos de referência podem ser acessados no portal do projeto (http://hablabeee.ufsc.br/).
 
-# Project information:
-Título:	Inovação no desenvolvimento e construção de Habitações de Interesse Social Multifamiliares para promoção da eficiência energética e conforto ambiental
-Alias:	Hab.LabEEE
-Órgão financiador:	FINEP
-Executor:	UFSC
-Código FINEP:	1536/22
-Número do Convênio:	01.22.0580.00
+### Project information:
+Título:	Inovação no desenvolvimento e construção de Habitações de Interesse Social Multifamiliares para promoção da eficiência energética e conforto ambiental <br>
+Alias:	Hab.LabEEE <br>
+Órgão financiador:	FINEP <br>
+Executor:	UFSC <br>
+Código FINEP:	1536/22 <br>
+Número do Convênio:	01.22.0580.00 <br>
 Prazo:	36 meses
 
-# Copyrights
+### Copyrights
 A utilização e reprodução deste material é permitida apenas para fins acadêmicos. Qualquer utilização deve conter a fonte, citando:
 GERALDI, M. S., VIEGA, C. Z. M., BAGIO, J., TRIANA, M. A., MELO, A. P., LAMBERTS, R. Relatório 
