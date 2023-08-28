@@ -1,4 +1,4 @@
-# modelos-referencia-residencial
+# HIS-Reference-Models
 Este é um repositório criado para disponibilizar modelos de referência típicos do setor residencial de Habitação de Interesse Social do Brasil. Os modelos de referência foram criados a partir da tese de Triana (2016). O modelo arquitetônico e de água quente foram modelados em BIM no software Revit (versão), e o modelo de energia foi modelado no sofware EnergyPlus (Versão 22.1).
 
 Este material foi criado no âmbito do projeto hab.labeee, e o relatório completo da criação e análise dos modelos de referência podem ser acessados no portal do projeto (http://hablabeee.ufsc.br/).
